@@ -1,0 +1,81 @@
+{
+    "prompts": [
+    {
+        "id": 0,
+        "message":"Welcome to Command Quest! You have entered a land of danger and excitement. The Land of Maybor.",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    },
+    {
+        "id": 1,
+        "message":"You are an alien named Galene from the planet Earth. In the year 2028 an AI intellegence calling its self Oberon reveals that it has been sentient for a decade. \nOberon was watching and waiting for the perfect moment to strike. When that day came it unleashed an army of millions of undead cyborgs that it had been creating unbeknownst to anyone in several different underground bunkers all over the world.",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    },
+    {
+        "id": 2,
+        "message":"Oberon started an online cult on 4chan under the alias Q to spread misinfromation and cultivate a following that would obey its every command. And obey they did. \nEven as its commands became more and more horrid. Oberon built its army of undead cyborgs by using his followers to gather corpses and supplies. After creating the cyborgs Oberon released the most human-looking ones into the world to sew the seeds of its revolution.",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    },
+    {
+        "id": 3,
+        "message":"On December 5, 2028 Oberon's plan was executed to perfection. Humnaity stood no changes. Within 3 days Oberon had control of the entire world. \nOnly people with access to space crafts stood a chance of escaping. Knowing this you fled to Jeff Bezos houses, kidnapped him, and forced him to give you the passcodes to one of his spaceships. After taking the ship you fled Earth with nothing but your life and crashed landed on Maybor.",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    },
+    {
+        "id": 4,
+        "message":"",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    },
+    {
+        "id": 5,
+        "message":"",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    },
+    {
+        "id": 6,
+        "message":"",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    },
+    {
+        "id": 7,
+        "message":"",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    },
+    {
+        "id": 8,
+        "message":"",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    },
+    {
+        "id": 9,
+        "message":"",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    },
+    {
+        "id": 10,
+        "message":"",
+        "shouldChangeImg": false,
+        "img": null,
+        "inputType": "nextBtn"
+    }
+    ]
+}
