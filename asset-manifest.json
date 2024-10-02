@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/command_quest/static/css/main.d3562660.css",
+    "main.js": "/command_quest/static/js/main.99f0adac.js",
+    "static/js/453.68849eee.chunk.js": "/command_quest/static/js/453.68849eee.chunk.js",
+    "static/media/gameMap.jpg": "/command_quest/static/media/gameMap.c6b7f061f74da8d66cf9.jpg",
+    "index.html": "/command_quest/index.html",
+    "main.d3562660.css.map": "/command_quest/static/css/main.d3562660.css.map",
+    "main.99f0adac.js.map": "/command_quest/static/js/main.99f0adac.js.map",
+    "453.68849eee.chunk.js.map": "/command_quest/static/js/453.68849eee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3562660.css",
+    "static/js/main.99f0adac.js"
+  ]
+}
